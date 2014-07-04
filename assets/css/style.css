@@ -1,0 +1,47 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+
+.canvas {
+	padding: 30px;
+}
+
+.block {
+	position: relative;
+	width: 150px;
+	height: 150px;
+	list-style: none;
+	cursor: move;
+	webkit-touch-callout: none; 
+	-webkit-user-select: none; 
+	-khtml-user-select: none; 
+	-moz-user-select: none; 
+	-ms-user-select: none; 
+	user-select: none;
+}
+
+.green {
+	background-color: #9eccb3;
+	float: left;
+	margin: 10px;
+}
+
+.orange {
+	background-color: #f47d44;
+	float: left;
+	margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
